@@ -1,4 +1,4 @@
-# Yet another survey of literature on compilers for AI models
+# Yet another survey of compilers for AI models
 
 This survey is intended to cover research on compilers for AI domain. Some of these compilers are widely known as NPU/TPU compilers.
 
