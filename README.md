@@ -29,24 +29,30 @@ Several closely related adjacent areas are not covered here:
 
 We pay special attention to papers devoted to products of Samsung company.
 
-### Samsung NPU architecture
+### Architecture
+- Song J. et al. [An 11.5 TOPS/W 1024-MAC butterfly structure dual-core sparsity-aware neural processing unit in 8nm flagship mobile SoC](https://ieeexplore.ieee.org/abstract/document/8662476) (Samsung Electronics, Hwaseong & SAIT. **ISSCC**, 2019)
+- Kim Y.D. et al. [A 7nm High-Performance and Energy-Efficient Mobile Application Processor with Tri-Cluster CPUs and a Sparsity-Aware NPU](https://ieeexplore.ieee.org/abstract/document/9062907) (Samsung Electronics, Hwaseong. **ISSCC**, 2020)
+- Chae D., Kapoor P. [Centralized Generic Interfaces in Hardware/Software Co-design for AI Accelerators](https://dl.acm.org/doi/pdf/10.1145/3387940.3392225) (Samsung Research. **ICSEW**, 2020)
+- Hwang J. et al. [Low Power SOC Based on High Density MIM Capacitor for beyond Moore Era by Robust Power Integrity Achievement](https://ieeexplore.ieee.org/abstract/document/9159268) (Samsung S.LSI. **ECTC**, 2020)
+- Lee H. et al. [Extracting power supply current profile by using interposer-based low-noise probing technique for PDN design of high-density POP] (Samsung S.LSI. ECTC, 2020)
+- Hwang S. et al. [Effective Substrate Thermal Conductivity Modeling Method Extracted from Detailed Pattern for Premium SOC Packages](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190556) (Samsung Electronics, Hwaseong. **ITherm**, 2020)
 
-#### Architecture descriptions
-- Song J. et al. [An 11.5 TOPS/W 1024-MAC butterfly structure dual-core sparsity-aware neural processing unit in 8nm flagship mobile SoC](https://ieeexplore.ieee.org/abstract/document/8662476) (Samsung. **ISSCC**, 2019)
-- Kim Y.D. et al. [A 7nm High-Performance and Energy-Efficient Mobile Application Processor with Tri-Cluster CPUs and a Sparsity-Aware NPU](https://ieeexplore.ieee.org/abstract/document/9062907) (Samsung. **ISSCC**, 2020)
-
-#### Architecture comparisons
+### Comparison
 - Ignatov A. et al. [AI benchmark: All about deep learning on smartphones in 2019](https://arxiv.org/pdf/1910.06663.pdf) (ETHZ, Google, Samsung, Huawei, Qualcomm, MediaTek, Unisoc. **ICCVW**, 2019)
   > we evaluate the performance and compare the results of all chipsets from Qualcomm, HiSilicon, Samsung, MediaTek and Unisoc that are providing hardware acceleration for AI inference
 - Lee M.Y. et al. (in Korean) [Trends in AI Processor Technology](https://www.koreascience.or.kr/article/JAKO202056463863281.pdf) (ETRI. **Electronics and Telecommunications Trends**, 2020)
   - compares Apple, Huawei, Samsung, Qualcomm, MediaTek, ARM, CEVA, Gyrfalcon & Hailo processors
 
-### Samsung NPU compiler
+### Compiler
 - Das S. et al. [A Systolic Dataflow Based Accelerator for CNNs](https://ieeexplore.ieee.org/abstract/document/9180403) (Samsung. **ISCAS**, 2020)
 
-### Other
+### Verification
 - Bhattacharya S. et al. [Countering Acoustic Adversarial Attacks in Microphone-equipped Smart Home Devices](https://dl.acm.org/doi/pdf/10.1145/3397332) (Samsung AI Center & Cambridge. **IMWUT**, 2020)
   - cites a Song et al paper describing Samsung NPU device
+- Jung J., Park J., Kumar A. [A Verification Framework of Neural Processing Unit for Super Resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9027227) (Samsung Research. MTV, 2019)
+
+### Optimization
+- Oh J. et al. [Weight Equalizing Shift Scaler-Coupled Post-training Quantization](https://arxiv.org/pdf/2008.05767.pdf) (Samsung Research. arXiv, 2020)
 
 
 ## Benchmarks
