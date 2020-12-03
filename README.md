@@ -30,9 +30,25 @@ Several closely related adjacent areas are not covered here:
 We pay special attention to papers devoted to products of Samsung company.
 
 ### Samsung NPU architecture
-- Song J. et al. [7.1 An 11.5 TOPS/W 1024-MAC butterfly structure dual-core sparsity-aware neural processing unit in 8nm flagship mobile SoC](https://ieeexplore.ieee.org/abstract/document/8662476) (Samsung. **ISSCC**, 2019)
+
+#### Architecture descriptions
+- Song J. et al. [An 11.5 TOPS/W 1024-MAC butterfly structure dual-core sparsity-aware neural processing unit in 8nm flagship mobile SoC](https://ieeexplore.ieee.org/abstract/document/8662476) (Samsung. **ISSCC**, 2019)
+- Kim Y.D. et al. [A 7nm High-Performance and Energy-Efficient Mobile Application Processor with Tri-Cluster CPUs and a Sparsity-Aware NPU](https://ieeexplore.ieee.org/abstract/document/9062907) (Samsung. **ISSCC**, 2020)
+
+#### Architecture comparisons
 - Ignatov A. et al. [AI benchmark: All about deep learning on smartphones in 2019](https://arxiv.org/pdf/1910.06663.pdf) (ETHZ, Google, Samsung, Huawei, Qualcomm, MediaTek, Unisoc. **ICCVW**, 2019)
   > we evaluate the performance and compare the results of all chipsets from Qualcomm, HiSilicon, Samsung, MediaTek and Unisoc that are providing hardware acceleration for AI inference
+- Lee M.Y. et al. (in Korean) [Trends in AI Processor Technology](https://www.koreascience.or.kr/article/JAKO202056463863281.pdf) (ETRI. **Electronics and Telecommunications Trends**, 2020)
+  - compares Apple, Huawei, Samsung, Qualcomm, MediaTek, ARM, CEVA, Gyrfalcon & Hailo processors
 
 ### Samsung NPU compiler
 - Das S. et al. [A Systolic Dataflow Based Accelerator for CNNs](https://ieeexplore.ieee.org/abstract/document/9180403) (Samsung. **ISCAS**, 2020)
+
+### Other
+- Bhattacharya S. et al. [Countering Acoustic Adversarial Attacks in Microphone-equipped Smart Home Devices](https://dl.acm.org/doi/pdf/10.1145/3397332) (Samsung AI Center & Cambridge. **IMWUT**, 2020)
+  - cites a Song et al paper describing Samsung NPU device
+
+
+## Benchmarks
+
+- [AI Benchmark](http://ai-benchmark.com/) - benchmark for DNN tasks on Mobile phones
