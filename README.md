@@ -34,7 +34,7 @@ We pay special attention to papers devoted to products of Samsung company.
 - Kim Y.D. et al. [A 7nm High-Performance and Energy-Efficient Mobile Application Processor with Tri-Cluster CPUs and a Sparsity-Aware NPU](https://ieeexplore.ieee.org/abstract/document/9062907) (Samsung Electronics, Hwaseong. **ISSCC**, 2020)
 - Chae D., Kapoor P. [Centralized Generic Interfaces in Hardware/Software Co-design for AI Accelerators](https://dl.acm.org/doi/pdf/10.1145/3387940.3392225) (Samsung Research. **ICSEW**, 2020)
 - Hwang J. et al. [Low Power SOC Based on High Density MIM Capacitor for beyond Moore Era by Robust Power Integrity Achievement](https://ieeexplore.ieee.org/abstract/document/9159268) (Samsung S.LSI. **ECTC**, 2020)
-- Lee H. et al. [Extracting power supply current profile by using interposer-based low-noise probing technique for PDN design of high-density POP] (Samsung S.LSI. ECTC, 2020)
+- Lee H. et al. [Extracting power supply current profile by using interposer-based low-noise probing technique for PDN design of high-density POP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9159523) (Samsung S.LSI. ECTC, 2020)
 - Hwang S. et al. [Effective Substrate Thermal Conductivity Modeling Method Extracted from Detailed Pattern for Premium SOC Packages](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190556) (Samsung Electronics, Hwaseong. **ITherm**, 2020)
 
 ### Comparison
