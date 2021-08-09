@@ -22,6 +22,7 @@ Several closely related adjacent areas are not covered here:
 
 ## Existing paper surveys
 
+- Capra M. et al. [Hardware and software optimizations for accelerating deep neural networks: Survey of current trends, challenges, and the road ahead](https://arxiv.org/pdf/2012.11233.pdf) (IEEE Access. 2020)
 - Li et al. [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794.pdf) (Beihang & Tsinghua Universities. arXiv, 2020)
   > To the best of our knowledge, this is the first paper that provides a comprehensive survey on the design of DL compiler.
 
